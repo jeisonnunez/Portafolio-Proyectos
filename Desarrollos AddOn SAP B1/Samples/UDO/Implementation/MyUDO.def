@@ -1,0 +1,4 @@
+EXPORTS
+	CreateObject       		@1
+	InvokeMethod			@2
+	GetUDOVersion           @3

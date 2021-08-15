@@ -1,0 +1,206 @@
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.exe.config
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.exe
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.pdb
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.xml
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Release\office.dll
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportResum.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmActualizaPago.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmAdendas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmBuscaUser.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmBusquedas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmcarteraT.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmClaves.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmClientes.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmCobranzas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmContrRec.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmEmpresaCont.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmexcelMant.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmExplorer.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmFacturas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmHistoricoProy.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacion.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionClientes.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionContratista.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInicioproyectos.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputctas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputFact.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputRec.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInventarioA2.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmLocalidades.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmLoginPass.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmmantAdendas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMantenimientoProy.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMantproy.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmManttablasBasicas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyecto.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyectoConsulta.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyectoIncluir.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNewnrodeMant.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNroctaproy.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNromantproy.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPagos.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmParamadicRpts.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmParamRepts.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmpermisos.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmpFases.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPresCtas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPresentacion.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmProcess.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmProydatosppal.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportView.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSincronizaA2.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSubmenup.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSubmenupInicio.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmTablasbasicas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmUsuarios.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frm_manttbBasiscas.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.Resources.resources
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.vbproj.GenerateResource.Cache
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\RdlCompile.cache
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\RdlCompile.compiled
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.exe
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.xml
+C:\Users\yamilet nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.pdb
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Debug\ControlProyectos.exe.config
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Debug\ControlProyectos.exe
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Debug\ControlProyectos.pdb
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Debug\ControlProyectos.xml
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Debug\office.dll
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInsertaFactura.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportResumm.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportResum.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmActualizaPago.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmAdendas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmBuscaUser.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmBusquedas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmcarteraT.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmClaves.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmClientes.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmCobranzas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmContrRec.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmEmpresaCont.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmexcelMant.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmExplorer.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmFacturas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmHistoricoProy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacion.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionClientes.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionContratista.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInicioproyectos.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputctas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputFact.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputRec.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInventarioA2.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmLocalidades.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmLoginPass.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmmantAdendas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMantenimientoProy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMantproy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmManttablasBasicas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyecto.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyectoConsulta.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyectoIncluir.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNewnrodeMant.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNroctaproy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNromantproy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPagos.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmParamadicRpts.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmParamRepts.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmpermisos.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmpFases.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPresCtas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPresentacion.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmProcess.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmProydatosppal.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportView.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSincronizaA2.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSubmenup.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSubmenupInicio.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmTablasbasicas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmUsuarios.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frm_manttbBasiscas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.Resources.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.vbproj.GenerateResource.Cache
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\RdlCompile.cache
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\RdlCompile.compiled
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.exe
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.xml
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Projects\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.pdb
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.exe.config
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.exe
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.pdb
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\bin\Release\ControlProyectos.xml
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\bin\Release\office.dll
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionResp.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionFacturas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmFacturasResumen.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInsertaFactura.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPopup.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportResumm.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportResum.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmActualizaPago.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmAdendas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmBuscaUser.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmBusquedas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmcarteraT.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmClaves.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmClientes.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmCobranzas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmContrRec.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmEmpresaCont.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmexcelMant.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmExplorer.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmFacturas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmHistoricoProy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacion.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionClientes.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmImportacionContratista.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInicioproyectos.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputctas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputFact.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInputRec.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmInventarioA2.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmLocalidades.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmLoginPass.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmmantAdendas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMantenimientoProy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMantproy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmManttablasBasicas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyecto.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyectoConsulta.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmMenuProyectoIncluir.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNewnrodeMant.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNroctaproy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmNromantproy.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPagos.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmParamadicRpts.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmParamRepts.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmpermisos.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmpFases.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPresCtas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmPresentacion.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmProcess.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmProydatosppal.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmReportView.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSincronizaA2.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSubmenup.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmSubmenupInicio.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmTablasbasicas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frmUsuarios.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.frm_manttbBasiscas.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.Resources.resources
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.vbproj.GenerateResource.Cache
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\RdlCompile.cache
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\RdlCompile.compiled
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.exe
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.xml
+C:\Users\yamilet.nunez\Documents\Visual Studio 2008\Personales\SolControlProyectos\ControlProyectos\obj\Release\ControlProyectos.pdb

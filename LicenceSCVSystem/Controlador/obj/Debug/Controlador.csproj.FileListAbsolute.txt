@@ -1,0 +1,9 @@
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\bin\Debug\Controlador.dll
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\bin\Debug\Controlador.pdb
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\bin\Debug\ModeloPublicKey.dll
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\bin\Debug\ModeloPublicKey.pdb
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\obj\Debug\Controlador.dll
+C:\Users\jamara\source\repos\LicenceSCVSystem\Controlador\obj\Debug\Controlador.pdb

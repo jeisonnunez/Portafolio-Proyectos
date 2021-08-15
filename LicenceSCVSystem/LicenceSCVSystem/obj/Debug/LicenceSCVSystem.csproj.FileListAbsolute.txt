@@ -1,0 +1,17 @@
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\bin\Debug\LicenceSCVSystem.exe.config
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\bin\Debug\LicenceSCVSystem.exe
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\bin\Debug\LicenceSCVSystem.pdb
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\MainWindow.g.cs
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\App.g.cs
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem_MarkupCompile.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem_MarkupCompile.lref
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\MainWindow.baml
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem.g.resources
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem.Properties.Resources.resources
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem.csproj.GenerateResource.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem.csproj.CoreCompileInputs.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem.exe
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem.pdb
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\LicenceSCVSystem.csprojAssemblyReference.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\ValidationLicence.g.cs
+C:\Users\jamara\source\repos\LicenceSCVSystem\LicenceSCVSystem\obj\Debug\ValidationLicence.baml

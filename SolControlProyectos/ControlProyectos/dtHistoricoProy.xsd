@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtHistoricoProy" targetNamespace="http://tempuri.org/dtHistoricoProy.xsd" xmlns:mstns="http://tempuri.org/dtHistoricoProy.xsd" xmlns="http://tempuri.org/dtHistoricoProy.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ControlProyectosConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ControlProyectosConnectionString (MySettings)" PropertyReference="ApplicationSettings.ControlProyectos.My.MySettings.GlobalReference.Default.ControlProyectosConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dtHistoricoProyTableAdapter" GeneratorDataComponentClassName="dtHistoricoProyTableAdapter" Name="dtHistoricoProy" UserDataComponentName="dtHistoricoProyTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ControlProyectosConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        dbo.HIST_tab_DatosPpalProy.pro_idProyecto, dbo.HIST_tab_DatosPpalProy.pro_nroProyecto, dbo.HIST_tab_DatosPpalProy.pro_descripcion, dbo.HIST_tab_DatosPpalProy.pro_Sector, 
+                         dbo.HIST_tab_DatosPpalProy.pro_nroContrato, dbo.HIST_tab_DatosPpalProy.pro_Provincia, dbo.HIST_tab_DatosPpalProy.pro_monto, dbo.tab_Sector.des_Sector
+FROM            dbo.HIST_tab_DatosPpalProy, dbo.tab_Sector
+WHERE        dbo.HIST_tab_DatosPpalProy.pro_Sector = dbo.tab_Sector.id</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="pro_idProyecto" DataSetColumn="pro_idProyecto" />
+              <Mapping SourceColumn="pro_nroProyecto" DataSetColumn="pro_nroProyecto" />
+              <Mapping SourceColumn="pro_descripcion" DataSetColumn="pro_descripcion" />
+              <Mapping SourceColumn="pro_Sector" DataSetColumn="pro_Sector" />
+              <Mapping SourceColumn="pro_nroContrato" DataSetColumn="pro_nroContrato" />
+              <Mapping SourceColumn="pro_Provincia" DataSetColumn="pro_Provincia" />
+              <Mapping SourceColumn="pro_monto" DataSetColumn="pro_monto" />
+              <Mapping SourceColumn="des_Sector" DataSetColumn="des_Sector" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtHistoricoProy" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dtHistoricoProy" msprop:Generator_UserDSName="dtHistoricoProy" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtHistoricoProy" msprop:Generator_UserTableName="dtHistoricoProy" msprop:Generator_RowDeletedName="dtHistoricoProyRowDeleted" msprop:Generator_TableClassName="dtHistoricoProyDataTable" msprop:Generator_RowChangedName="dtHistoricoProyRowChanged" msprop:Generator_RowClassName="dtHistoricoProyRow" msprop:Generator_RowChangingName="dtHistoricoProyRowChanging" msprop:Generator_RowEvArgName="dtHistoricoProyRowChangeEvent" msprop:Generator_RowEvHandlerName="dtHistoricoProyRowChangeEventHandler" msprop:Generator_TablePropName="_dtHistoricoProy" msprop:Generator_TableVarName="tabledtHistoricoProy" msprop:Generator_RowDeletingName="dtHistoricoProyRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="pro_idProyecto" msprop:Generator_UserColumnName="pro_idProyecto" msprop:Generator_ColumnPropNameInRow="pro_idProyecto" msprop:Generator_ColumnVarNameInTable="columnpro_idProyecto" msprop:Generator_ColumnPropNameInTable="pro_idProyectoColumn" type="xs:double" />
+              <xs:element name="pro_nroProyecto" msprop:Generator_UserColumnName="pro_nroProyecto" msprop:Generator_ColumnPropNameInRow="pro_nroProyecto" msprop:Generator_ColumnVarNameInTable="columnpro_nroProyecto" msprop:Generator_ColumnPropNameInTable="pro_nroProyectoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_descripcion" msprop:Generator_UserColumnName="pro_descripcion" msprop:Generator_ColumnPropNameInRow="pro_descripcion" msprop:Generator_ColumnVarNameInTable="columnpro_descripcion" msprop:Generator_ColumnPropNameInTable="pro_descripcionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="300" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_Sector" msprop:Generator_UserColumnName="pro_Sector" msprop:Generator_ColumnPropNameInRow="pro_Sector" msprop:Generator_ColumnVarNameInTable="columnpro_Sector" msprop:Generator_ColumnPropNameInTable="pro_SectorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_nroContrato" msprop:Generator_UserColumnName="pro_nroContrato" msprop:Generator_ColumnPropNameInRow="pro_nroContrato" msprop:Generator_ColumnVarNameInTable="columnpro_nroContrato" msprop:Generator_ColumnPropNameInTable="pro_nroContratoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_Provincia" msprop:Generator_UserColumnName="pro_Provincia" msprop:Generator_ColumnPropNameInRow="pro_Provincia" msprop:Generator_ColumnVarNameInTable="columnpro_Provincia" msprop:Generator_ColumnPropNameInTable="pro_ProvinciaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="pro_monto" msprop:Generator_UserColumnName="pro_monto" msprop:Generator_ColumnPropNameInRow="pro_monto" msprop:Generator_ColumnVarNameInTable="columnpro_monto" msprop:Generator_ColumnPropNameInTable="pro_montoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="des_Sector" msprop:Generator_UserColumnName="des_Sector" msprop:Generator_ColumnPropNameInRow="des_Sector" msprop:Generator_ColumnVarNameInTable="columndes_Sector" msprop:Generator_ColumnPropNameInTable="des_SectorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

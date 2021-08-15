@@ -1,0 +1,426 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+	
+	}
+	@font-face {
+  font-family: "Dusha V5";
+  src:url(Dusha_-_FIFA_World_Cup_2018.ttf);
+}
+
+body{ 
+
+	width:100%;
+	overflow-x:hidden;
+	
+}
+#logo1{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	float:right;
+	
+	
+}
+.olvido{
+	
+	text-decoration:none;
+	color:#720E07;
+	margin-bottom:10px;
+	padding-bottom:20px;
+	text-align:center;
+	
+	
+	
+	}	
+#principal{
+	
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-aroud;
+	margin:auto;	
+	width:100%;	
+	
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;	
+	background-size:cover;	
+	position:relative;
+	margin-top:90px;
+	
+	
+	}
+	
+#principal:before{
+	
+	content:"";
+	width:100%;
+	height:710px;
+	position:absolute;
+	background-color:#4169E1;
+	opacity:0.5;
+	
+	}
+
+
+	
+	
+#encabezado{
+	top:0;
+	left:0;
+	z-index:99;
+	position:fixed;
+	width:100%;  	
+ 
+	}
+	
+#banner{
+	
+	
+	background-image:url(imagenes/red-swirl-banner.jpg);
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:100%;
+	
+	}	
+	
+	
+#logo{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	
+	
+}
+		
+		
+		
+		
+#titulo{
+	
+	display:inline;
+	text-align:center;
+	color:#fff;
+	font-family:"Dusha V5";
+	width:100%;
+	margin-left:12%;
+	font-size:2.2em;
+	
+	
+	
+	
+	}
+	
+
+#menu ul{
+	
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:flex;	
+	background:#191970;
+	width:100%;
+	height:30px;
+	
+	
+}
+
+#menu ul li{
+	
+	width:25%;
+	height:30px;
+	
+	
+	}
+
+
+#menu li a{
+	
+	display:block;
+	padding:8px 0px;	
+	color:#FFFFFF;
+	text-decoration:none;
+	text-align:center;
+	height:30px;
+	font-size:1.4em;
+	
+	
+}
+
+
+
+
+	
+#menu li a:hover {
+ background-color: #2586d7;
+
+ }
+ 
+#principal #contenido{
+
+z-index:1;
+margin-top:100px;
+margin-bottom:100px;
+
+width:100%;	
+	
+	
+}
+
+
+#contenido{
+	
+	padding-top:100px;
+	
+	
+	}
+	
+	.login {
+  margin: 20px auto;
+  width: 300px;
+  padding: 30px 25px;
+  background: white;
+  border: 1px solid #720E07;
+}
+
+h1.login-title {
+  margin: -28px -25px 25px;
+  padding: 15px 25px;
+  line-height: 30px;
+  font-size: 25px;
+  font-family:"Dusha V5";
+  font-weight: 300;
+  color: #720E07;
+  text-align:center;
+  background: #f7f7f7;
+ 
+}
+
+.login-input {
+  width: 285px;
+  height: 50px;
+  margin-bottom: 25px;
+  padding-left:10px;
+  font-family:"Dusha V5";
+  font-size: 15px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.login-input:focus {
+    border-color:#6e8095;
+    outline: none;
+	background:#FFE4E1;
+	
+  }
+.login-button {
+  width: 100%;
+  height: 50px;
+  padding: 0;
+  font-size: 20px;
+  font-family:"Dusha V5";
+  color: #fff;
+  text-align: center;
+  background: #720E07;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer; 
+  outline:0;
+}
+
+.login-button:hover {
+	
+	background:#720E07;
+	
+}
+	
+	
+	@media (max-width:965px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:26px;
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:1.2em;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:690px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:22px;
+	
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:1.0em;
+	
+	
+}
+
+	
+	}
+	
+	
+	@media (max-width:560px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:20px;
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:0.9em;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:490px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:16px;
+	
+	}
+	
+	#logo{
+	
+	width:15%;
+	
+	
+}
+
+#testbox{
+	
+	width:70%;
+}
+}
+
+#principal{
+	
+	margin-top:110px;
+	
+	
+	
+	}
+	
+	
+	}
+
+@media (max-width:453px) {
+		
+	#principal{
+	
+	margin-top:130px;
+	
+	
+	
+	}
+}
+	@media (max-width:380px) {
+		
+	#titulo{
+	
+	margin-left:2%;
+	font-size:14px;
+	
+	}	
+	
+	#menu li a{
+	
+	
+	padding:0px 1px;
+	
+	
+}
+
+#principal{
+	
+	margin-top:115px;
+	
+	
+	
+	}
+	
+	}
+	
+	@media (max-width:365px) {
+		
+	#titulo{
+	
+	
+	font-size:12px;
+	margin-left:0px;
+	
+	}	
+	
+	#logo{
+	
+	width:12%;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:715px) {
+		
+	
+	
+	
+	
+	}
+	@media (max-width:400px) {
+		
+	
+	
+
+	
+	
+	.informacion{
+	
+	font-size:8px;
+	
+	}
+	
+	.imagen{
+	
+	width:25px;
+	
+	
+	}
+	
+	.cuadro{
+	
+	width:15px;	
+	height:15px;
+	
+	}
+	
+	}

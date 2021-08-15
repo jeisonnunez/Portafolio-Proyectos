@@ -1,0 +1,1119 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+	
+	}
+	
+	@font-face {
+  font-family: "Dusha V5";
+  src:url(Dusha_-_FIFA_World_Cup_2018.ttf);
+}
+
+body{ 
+
+	width:100%;
+	overflow-x:hidden;
+	
+	
+	
+	
+}
+	
+#principal{
+	
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-aroud;
+	margin:auto;	
+	width:100%;	
+	background-image:url(imagenes/estrellas1.jpeg);		
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;	
+	background-size:cover;	
+	position:relative;
+	margin-top:90px;
+	
+	
+	}
+	
+#principal:before{
+	
+	content:"";
+	width:100%;
+	height:2600px;
+	position:absolute;
+	background-color:#4169E1;
+	opacity:0.5;
+	
+	}
+
+
+	
+	
+#encabezado{
+	top:0;
+	left:0;
+	z-index:99;
+	position:fixed;
+	width:100%;  	
+ 
+	}
+	
+#banner{
+	
+	
+	background-image:url(imagenes/red-swirl-banner.jpg);
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:100%;
+	
+	}	
+	
+	
+#logo{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	
+	
+}
+		
+#logo1{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	float:right;
+	
+	
+}
+				
+		
+		
+#titulo{
+	
+	display:inline;
+	text-align:center;
+	color:#fff;
+	font-family:"Dusha V5";
+	width:100%;
+	margin-left:12%;
+	
+	font-size:2.2em;
+	
+	
+	
+	
+	}
+	
+
+#menu ul{
+	
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:flex;	
+	background:#191970;
+	width:100%;
+	
+	
+}
+
+#menu ul li{
+	
+	width:20%;
+	
+	
+	}
+
+
+#menu li a{
+	
+	display:block;
+	padding:8px 0px;	
+	color:#FFFFFF;
+	font-family:"Dusha V5";
+	text-decoration:none;
+	text-align:center;
+	font-size:1.4em;
+	
+	
+}
+
+
+
+
+	
+#menu li a:hover {
+ background-color: #2586d7;
+
+ }
+ 
+#principal #contenido{
+
+z-index:1;
+margin-top:100px;
+margin-bottom:100px;
+
+width:100%;	
+	
+	
+}
+
+#contenido table{
+	
+	margin:auto;
+	width:50%;
+	
+}
+ 
+#principal #col1, #col2{
+		
+	padding:10px 10px;
+	width:330px;
+	margin:auto;	
+	z-index:1;
+	
+	
+	}
+	
+#principal #cuadro_eliminatoria {
+	
+z-index:1;
+margin:auto;
+width:100%;
+	
+}
+
+#principal #crear{
+	
+z-index:1;
+margin:auto;
+width:100%;
+	
+}
+
+#boton_crear{
+	margin-top:8px;
+
+width:130px;
+font-size:12px;
+text-align:center;	
+	
+	}
+
+#seleccion1{
+	
+	width:130px;
+	
+	
+	
+	}	
+	.button {
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  padding: 6px 25px 0px 20px;
+  margin: 10px 8px 20px 0px;
+  display: inline-block;
+  float: right;
+  font-family:"Dusha V5";
+  text-decoration: none;
+  width: 100px; height: 27px; 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color:#990000; 
+  -webkit-box-shadow: 0 3px rgba(102,102,102,1); 
+  -moz-box-shadow: 0 3px rgba(102,102,102,1); 
+  box-shadow: 0 3px rgba(102,102,102,1);
+  transition: all 0.1s linear 0s; 
+  top: 0px;
+  position: relative;
+}
+
+.button:hover {
+  top: 3px;
+  background-color:#990000;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+  
+}
+
+	
+#principal #subtitulo{
+	
+z-index:1;
+margin:auto;
+width:95%;
+	
+}
+
+#subtitulo_1{
+
+width:100%;
+text-align:center;
+background:#0000FF;
+	
+	}
+	
+	
+
+#principal #seleccion{
+	
+	z-index:1;
+	
+	margin:auto;
+	margin-top:90px;
+	
+}
+	
+.usuario{
+	
+	text-align:left;
+	font-size:22px;
+	font-family:"Dusha V5";
+	color:#fff;
+	padding:10px;
+	margin-top:120px;
+	position:fixed;
+	z-index:99;
+	
+	
+	
+	}	
+	
+#col1 div, #col2 div{
+	
+	padding:10px 10px;
+	
+	}
+
+table{
+	
+	border-collapse:collapse; 
+	
+	width:100%;
+	margin-top:20px;
+	
+	}
+	
+ #equipos_grupo_a tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_a tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_a tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_a tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	
+	#equipos_grupo_b tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_b tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_b tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_b tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	
+	#equipos_grupo_c tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_c tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_c tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_c tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	
+	#equipos_grupo_d tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_d tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_d tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_d tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	
+	#equipos_grupo_e tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_e tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_e tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_e tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	
+	#equipos_grupo_f tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_f tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_f tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_f tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	
+	#equipos_grupo_g tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_g tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_g tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_g tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	
+	#equipos_grupo_h tr{
+	
+	border-bottom:2px solid #ffffff;
+	
+	}
+	
+#equipos_grupo_h tr{
+			
+			-webkit-transition:-webkit-transform 0.5s ease-in-out 0.1s;}
+		
+   #equipos_grupo_h tr:hover{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+			
+			
+     #equipos_grupo_h tr:hover p{
+			-webkit-transform:scale(1.1);
+			color:#fff;
+			
+	}
+	.titulo{
+		
+		
+		background-color:#550C18;
+		border-radius:10px;
+		
+		}
+		
+		.parrafo{
+			
+			font-size:22px;
+			color:#F2F4F3;
+			font-family:"Dusha V5";
+			text-align:center;
+		
+			
+			
+			}
+			
+			.final{
+				
+				font-size:22px;
+				color:#fff;
+				font-family:"Dusha V5";
+				text-align:center;
+				
+				
+				}
+	
+	#eliminatoria{
+		
+		
+		border-collapse:collapse;
+		text-align:center;
+		border:none;
+		
+		
+		width:95%;
+		margin:auto;
+		
+		
+		
+		}
+		
+	
+		
+		.colum1{
+			
+			
+			
+			background-color:#F2F4F3;
+			}
+			
+			
+			
+		.colum2{
+			background-color:#550C18;
+
+			
+			}
+			
+			
+	
+		
+		#copa, #campeon{
+			
+			-webkit-transition:-webkit-transform 0.6s ease-in-out 0.1s;}
+		
+		#copa:hover, #campeon:hover{
+			-webkit-transform:scale(1.2);
+			
+			}
+		
+		.imagen_campeon{
+	
+	width:80px;
+	
+	
+	
+	
+	}
+	
+	.copa{
+		
+		width:80%;
+		height:230px;
+		
+		}
+		
+		.informacion1{
+	
+	color:#111;
+	font-size:0.8em;
+	font-family:"Dusha V5";
+	text-align:center;
+	
+	}
+	
+	
+#equipos_grupo_a tr:nth-child(even) {
+	
+	 background:#00BFFF; 
+	 
+	 }
+	 
+#equipos_grupo_a tr:nth-child(odd) { 
+
+	background:#87CEFA;
+}
+
+
+#equipos_grupo_a tr:hover{
+		
+		background:#0000CD;
+		cursor:pointer;
+		
+		
+		}
+#titulo_grupo_a{	
+	
+	background:#0000CD;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}
+	
+#equipos_grupo_b tr:nth-child(even) {
+	
+	 background:#FA8072; 
+	 
+	 }
+	 
+#equipos_grupo_b tr:nth-child(odd) { 
+
+	background:#FFA09A;
+}
+
+#equipos_grupo_b tr:hover{
+		
+		background:#8B0000;
+		cursor:pointer;
+		
+		
+		
+		}
+
+
+#titulo_grupo_b{	
+	
+	background:#8B0000;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}
+	
+#equipos_grupo_c tr:nth-child(even) {
+	
+	 background:#3CB371; 
+	 
+}
+	 
+#equipos_grupo_c tr:nth-child(odd) { 
+
+	background:#90EE90;
+}
+
+#equipos_grupo_c tr:hover{
+		
+		background:#006400;	
+		cursor:pointer;
+		
+		
+		}
+
+#titulo_grupo_c{	
+	
+	background:#006400;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}
+	
+#equipos_grupo_d tr:nth-child(even) {
+	
+	 background:#FFD700; 
+	 
+	 }
+	 
+#equipos_grupo_d tr:nth-child(odd) { 
+
+	background:#FFE4B5;
+}
+
+#equipos_grupo_d tr:hover{
+		
+		background:#B8860B;	
+		cursor:pointer;
+		
+		
+		}
+
+#titulo_grupo_d{	
+	
+	background:#B8860B;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}	
+	
+#equipos_grupo_e tr:nth-child(even) {
+	
+	 background:#808080; 
+	 
+	 }
+	 
+#equipos_grupo_e tr:nth-child(odd) { 
+
+	background:#C0C0C0;
+}
+
+#equipos_grupo_e tr:hover{
+		
+		background:#333333;		
+		cursor:pointer;
+		
+		
+		}
+
+
+#titulo_grupo_e{	
+	
+	background:#333333;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}	
+
+#equipos_grupo_f tr:nth-child(even) {
+	
+	 background:#9370DB;
+	 
+	 }
+	 
+#equipos_grupo_f tr:nth-child(odd) { 
+
+	
+	background:#E6E6FA; 
+	
+}
+
+#equipos_grupo_f tr:hover{
+		
+		background:#4B0082;		
+		cursor:pointer;
+		
+		
+		}
+		
+#titulo_grupo_f{	
+	
+	background:#4B0082;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}
+	
+#equipos_grupo_g tr:nth-child(even) {
+	
+	 background:#4682B4;
+	 
+	 }
+	 
+	
+	 
+#equipos_grupo_g tr:nth-child(odd) { 
+
+	
+	background:#B0C4DE; 
+	
+}
+
+
+#equipos_grupo_g tr:hover{
+		
+		background:#191970;		
+		cursor:pointer;
+		
+		
+		}
+
+#titulo_grupo_g{	
+	
+	background:#191970;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}
+	
+#equipos_grupo_h tr:nth-child(even) {
+	
+	 background:#CD853F;
+	 
+	 }
+	 
+#equipos_grupo_h tr:nth-child(odd) { 
+
+	
+	background:#F5DEB3; 
+	
+}
+
+#equipos_grupo_h tr:hover{
+		
+		background:#8B4513;		
+		cursor:pointer;
+		
+		
+		}
+
+#titulo_grupo_h{	
+	
+	background:#8B4513;
+	width:100%;	
+	padding:10px;
+	border-bottom:2px solid #ffffff;
+	font-family:"Dusha V5";
+	
+	}
+				
+#titulo_grupo_a p, #titulo_grupo_b p, #titulo_grupo_c p, #titulo_grupo_d p, #titulo_grupo_e p, #titulo_grupo_f p, #titulo_grupo_g p ,#titulo_grupo_h p{
+	
+	color:#FFFFFF;
+	text-align:center;
+	font-family:"Dusha V5";
+	font-size:1.3em;
+}
+
+.imagen{
+	
+	width:30px;
+	padding:5px 2px;
+	text-align:center;
+	
+	}
+
+.cuadro{
+	
+	width:20px;
+	margin:5px;
+	height:15px;
+	
+	}
+	
+.informacion{
+	
+	color:#000;
+	font-size:0.8em;
+	font-family:"Dusha V5";
+	text-align:center;
+	
+	}
+	
+	@media handheld, only screen and (max-width: 1200px) {
+.informacion1{
+display:none;
+}
+}
+	
+	@media (max-width:1416px) {
+		
+	#principal:before{
+	
+			content:"";
+			width:100%;
+			height:2600px;		
+			position:absolute;
+			background-color:#4169E1;
+			opacity:0.5;
+			
+	}
+	
+	.copa{
+		
+		width:100%;
+		
+	}
+	
+	@media (max-width:965px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:26px;
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:1.2em;
+	
+	
+	
+}
+
+#principal{
+	
+	margin-top:85px;
+	
+	
+	
+	}
+	
+	}
+	
+	@media (max-width:755px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:22px;
+	
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:1.0em;
+	
+	
+	
+}
+
+#principal{
+	
+	margin-top:80px;
+	
+	
+	
+	}
+
+	
+	}
+	
+	
+	@media (max-width:560px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:20px;
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:0.9em;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:490px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:16px;
+	
+	}
+	
+	#logo{
+	
+	width:15%;
+	
+	
+}
+
+#principal{
+	
+	margin-top:95px;
+	
+	
+	
+	}
+	
+	
+	}
+
+@media (max-width:453px) {
+		
+	#principal{
+	
+	margin-top:90px;
+	
+	
+	
+	}
+}
+	@media (max-width:380px) {
+		
+	#titulo{
+	
+	margin-left:2%;
+	font-size:14px;
+	
+	}	
+	
+	#menu li a{
+	
+	
+	padding:0px 1px;
+	
+	
+}
+
+#principal{
+	
+	margin-top:80px;
+	
+	
+	
+	}
+	
+	}
+	
+	@media (max-width:365px) {
+		
+	#titulo{
+	
+	
+	font-size:12px;
+	margin-left:0px;
+	
+	}	
+	
+	#logo{
+	
+	width:12%;
+	
+	
+	
+	
+}
+	#menu li a{
+	
+	
+	font-size:12px;
+	
+	
+}
+	}
+	
+	@media (max-width:715px) {
+		
+	#principal:before{
+	
+			content:"";
+			width:100%;
+			height:4100px;			
+			position:absolute;
+			background-color:#4169E1;
+			opacity:0.5;
+			
+	}	
+	
+	
+	
+	}
+	@media (max-width:400px) {
+		
+	#principal:before{
+	
+			content:"";
+			width:100%;
+			height:3760px;			
+			position:absolute;
+			background-color:#4169E1;
+			opacity:0.5;
+			
+	}
+	
+	#principal #col1, #principal #col2{
+		
+	padding:0px 10px;
+	width:250px;
+	margin:auto;	
+	
+	}
+
+	
+	
+	.informacion{
+	
+	font-size:11px;
+	
+	}
+	
+	.imagen{
+	
+	width:25px;
+	
+	
+	}
+	
+	.cuadro{
+	
+	width:15px;	
+	height:15px;
+	
+	}
+	
+	}

@@ -1,0 +1,7 @@
+C:\Users\jamara\source\repos\HardWareKey\HardWareKey\bin\Debug\HardWareKey.exe.config
+C:\Users\jamara\source\repos\HardWareKey\HardWareKey\bin\Debug\HardWareKey.exe
+C:\Users\jamara\source\repos\HardWareKey\HardWareKey\bin\Debug\HardWareKey.pdb
+C:\Users\jamara\source\repos\HardWareKey\HardWareKey\obj\Debug\HardWareKey.csprojAssemblyReference.cache
+C:\Users\jamara\source\repos\HardWareKey\HardWareKey\obj\Debug\HardWareKey.csproj.CoreCompileInputs.cache
+C:\Users\jamara\source\repos\HardWareKey\HardWareKey\obj\Debug\HardWareKey.exe
+C:\Users\jamara\source\repos\HardWareKey\HardWareKey\obj\Debug\HardWareKey.pdb

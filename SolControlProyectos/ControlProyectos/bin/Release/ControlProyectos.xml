@@ -1,0 +1,451 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ControlProyectos
+</name>
+</assembly>
+<members>
+<member name="T:ControlProyectos.dtCliente.tab_ClienteProyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtCliente.tab_ClienteProyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtCliente.tab_ClienteProyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtCliente">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ControlProyectos.dtClienteTableAdapters.tab_ClienteProyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ControlProyectos.dtClienteTableAdapters.TableAdapterManager.UpdateUpdatedRows(ControlProyectos.dtCliente,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dtClienteTableAdapters.TableAdapterManager.UpdateInsertedRows(ControlProyectos.dtCliente,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dtClienteTableAdapters.TableAdapterManager.UpdateDeletedRows(ControlProyectos.dtCliente,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ControlProyectos.dtClienteTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ControlProyectos.dtClienteTableAdapters.TableAdapterManager.UpdateAll(ControlProyectos.dtCliente)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ControlProyectos.dtClienteTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ControlProyectos.dtClienteTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ControlProyectos.dtClienteTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_Carteratotalc_sReciboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxSectorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxSectorGobDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramitesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_Carteratotalc_sR_sRecibo_ResDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramites_AllDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramites_ResumenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_Carteratotalc_sReciboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxSectorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxSectorGobRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramitesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_Carteratotalc_sR_sRecibo_ResRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramites_AllRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramites_ResumenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_Carteratotalc_sReciboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxSectorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxSectorGobRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramitesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_Carteratotalc_sR_sRecibo_ResRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramites_AllRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp.p_EstimacionCobrosxtramites_ResumenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtSp">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.p_Carteratotalc_sReciboTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.p_EstimacionCobrosxSectorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.p_EstimacionCobrosxSectorGobTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.p_EstimacionCobrosxtramitesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.p_Carteratotalc_sR_sRecibo_ResTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.p_EstimacionCobrosxtramites_AllTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.p_EstimacionCobrosxtramites_ResumenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ControlProyectos.dtSpTableAdapters.TableAdapterManager.UpdateUpdatedRows(ControlProyectos.dtSp,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dtSpTableAdapters.TableAdapterManager.UpdateInsertedRows(ControlProyectos.dtSp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dtSpTableAdapters.TableAdapterManager.UpdateDeletedRows(ControlProyectos.dtSp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ControlProyectos.dtSpTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ControlProyectos.dtSpTableAdapters.TableAdapterManager.UpdateAll(ControlProyectos.dtSp)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ControlProyectos.dtSpTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ControlProyectos.DataSet1.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.DataSet1.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.DataSet1.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.DataSet1.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.DataSet1.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.DataSet1.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ControlProyectos.DataSet1TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ControlProyectos.DataSet1TableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ControlProyectos.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ControlProyectos.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ControlProyectos.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ControlProyectos.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ControlProyectos.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ControlProyectos.DataSet1TableAdapters.TableAdapterManager.UpdateAll(ControlProyectos.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ControlProyectos.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ControlProyectos.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ControlProyectos.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProy.dtHistoricoProyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProy.dtHistoricoProyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProy.dtHistoricoProyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProy">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProyTableAdapters.dtHistoricoProyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager.UpdateUpdatedRows(ControlProyectos.dtHistoricoProy,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager.UpdateInsertedRows(ControlProyectos.dtHistoricoProy,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager.UpdateDeletedRows(ControlProyectos.dtHistoricoProy,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager.UpdateAll(ControlProyectos.dtHistoricoProy)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ControlProyectos.dtHistoricoProyTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ControlProyectos.dt_proy.p_BuscaProyectosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.dt_proy.p_BuscaProyectosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.dt_proy.p_BuscaProyectosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.dt_proy">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ControlProyectos.dt_proyTableAdapters.p_BuscaProyectosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ControlProyectos.dt_proyTableAdapters.TableAdapterManager.UpdateUpdatedRows(ControlProyectos.dt_proy,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dt_proyTableAdapters.TableAdapterManager.UpdateInsertedRows(ControlProyectos.dt_proy,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.dt_proyTableAdapters.TableAdapterManager.UpdateDeletedRows(ControlProyectos.dt_proy,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ControlProyectos.dt_proyTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ControlProyectos.dt_proyTableAdapters.TableAdapterManager.UpdateAll(ControlProyectos.dt_proy)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ControlProyectos.dt_proyTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ControlProyectos.dt_proyTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ControlProyectos.dt_proyTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemas.tab_SistemasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemas.tab_SistemasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemas.tab_SistemasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemasTableAdapters.tab_SistemasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager.UpdateUpdatedRows(ControlProyectos.tablasSistemas,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager.UpdateInsertedRows(ControlProyectos.tablasSistemas,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager.UpdateDeletedRows(ControlProyectos.tablasSistemas,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager.UpdateAll(ControlProyectos.tablasSistemas)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ControlProyectos.tablasSistemasTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "61180fb60cfec8e040cd3ded"
+  },
+  "trainer": "Ash",
+  "pokemons": [
+    {
+      "numero": 25,
+      "nombre": "Pikachu"
+    },
+    {
+      "_id": {
+        "$oid": "611830562e2b773d0876df21"
+      },
+      "numero": 6,
+      "nombre": "charizard"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "611832107051722c30b72961"
+  },
+  "trainer": "isaac",
+  "pokemons": [
+    {
+      "_id": {
+        "$oid": "611832107051722c30b72962"
+      },
+      "numero": 8,
+      "nombre": "wartortle"
+    },
+    {
+      "_id": {
+        "$oid": "611832337051722c30b72965"
+      },
+      "numero": 2,
+      "nombre": "ivysaur"
+    },
+    {
+      "_id": {
+        "$oid": "6118350f52306147789146d1"
+      },
+      "numero": 6,
+      "nombre": "charizard"
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "611832897051722c30b72969"
+  },
+  "trainer": "jeison",
+  "pokemons": [
+    {
+      "_id": {
+        "$oid": "611832897051722c30b7296a"
+      },
+      "numero": 86,
+      "nombre": "seel"
+    },
+    {
+      "_id": {
+        "$oid": "611832a57051722c30b7296d"
+      },
+      "numero": 5,
+      "nombre": "charmeleon"
+    }
+  ],
+  "__v": 1
+}]

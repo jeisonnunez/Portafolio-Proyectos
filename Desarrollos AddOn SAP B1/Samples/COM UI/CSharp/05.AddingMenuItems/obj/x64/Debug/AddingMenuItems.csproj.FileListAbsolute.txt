@@ -1,0 +1,7 @@
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\05.AddingMenuItems\bin\x64\Debug\Project1.exe
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\05.AddingMenuItems\bin\x64\Debug\Project1.pdb
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\05.AddingMenuItems\bin\x64\Debug\SAPBusinessOneSDK.dll
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\05.AddingMenuItems\obj\x64\Debug\AddingMenuItems.csprojAssemblyReference.cache
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\05.AddingMenuItems\obj\x64\Debug\AddingMenuItems.csproj.CopyComplete
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\05.AddingMenuItems\obj\x64\Debug\Project1.exe
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\05.AddingMenuItems\obj\x64\Debug\Project1.pdb

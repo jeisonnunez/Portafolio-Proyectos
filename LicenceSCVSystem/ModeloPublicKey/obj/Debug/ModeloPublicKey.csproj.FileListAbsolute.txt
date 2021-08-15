@@ -1,0 +1,6 @@
+C:\Users\jamara\source\repos\LicenceSCVSystem\ModeloPublicKey\bin\Debug\ModeloPublicKey.dll
+C:\Users\jamara\source\repos\LicenceSCVSystem\ModeloPublicKey\bin\Debug\ModeloPublicKey.pdb
+C:\Users\jamara\source\repos\LicenceSCVSystem\ModeloPublicKey\obj\Debug\ModeloPublicKey.csprojAssemblyReference.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\ModeloPublicKey\obj\Debug\ModeloPublicKey.csproj.CoreCompileInputs.cache
+C:\Users\jamara\source\repos\LicenceSCVSystem\ModeloPublicKey\obj\Debug\ModeloPublicKey.dll
+C:\Users\jamara\source\repos\LicenceSCVSystem\ModeloPublicKey\obj\Debug\ModeloPublicKey.pdb

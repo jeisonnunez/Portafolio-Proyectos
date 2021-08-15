@@ -1,0 +1,5 @@
+C:\Users\jamara\source\repos\LoginSystem\ConexionSQLServer\bin\Debug\ConexionSQLServer.dll
+C:\Users\jamara\source\repos\LoginSystem\ConexionSQLServer\bin\Debug\ConexionSQLServer.pdb
+C:\Users\jamara\source\repos\LoginSystem\ConexionSQLServer\obj\Debug\ConexionSQLServer.csprojAssemblyReference.cache
+C:\Users\jamara\source\repos\LoginSystem\ConexionSQLServer\obj\Debug\ConexionSQLServer.dll
+C:\Users\jamara\source\repos\LoginSystem\ConexionSQLServer\obj\Debug\ConexionSQLServer.pdb

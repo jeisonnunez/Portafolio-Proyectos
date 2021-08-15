@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceSCVSystem", "LicenceSCVSystem\LicenceSCVSystem.csproj", "{CE409EDC-C21E-4415-9FC3-41CF17A67141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloPublicKey", "ModeloPublicKey\ModeloPublicKey.csproj", "{DC4CE386-BD0A-484E-9551-8E1426C2A69B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE409EDC-C21E-4415-9FC3-41CF17A67141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE409EDC-C21E-4415-9FC3-41CF17A67141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE409EDC-C21E-4415-9FC3-41CF17A67141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE409EDC-C21E-4415-9FC3-41CF17A67141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4CE386-BD0A-484E-9551-8E1426C2A69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4CE386-BD0A-484E-9551-8E1426C2A69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4CE386-BD0A-484E-9551-8E1426C2A69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4CE386-BD0A-484E-9551-8E1426C2A69B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA90F44-4CD8-4A64-9B85-2226C65F0102}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,272 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{2660BE0B-EF10-45FF-873C-15A6D6E846E7}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "UsingSBObob"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                RootNamespace = "Project1"
+                StartupObject = "Project1.UsingSBObob"
+            >
+                <Config
+                    Name = "Debug"
+                  AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                  CheckForOverFlowUnderFlow = "false"
+                    ConfigurationOverrideFile = ""
+                 DefineConstants = "True;DEBUG;TRACE"
+                    DefineTrace = "true"
+                  DocumentationFile = ""
+                    DebugSymbols = "true"
+                  FileAlignment = "4096"
+                    IncrementalBuild = "true"
+                  NoStdLib = "false"
+                  NoWarn = ""
+                    Optimize = "false"
+                   OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                 WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                  AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                  CheckForOverFlowUnderFlow = "false"
+                    ConfigurationOverrideFile = ""
+                 DefineConstants = "True;TRACE"
+                    DefineTrace = "true"
+                  DocumentationFile = ""
+                    DebugSymbols = "false"
+                  FileAlignment = "4096"
+                    IncrementalBuild = "true"
+                  NoStdLib = "false"
+                  NoWarn = ""
+                    Optimize = "false"
+                   OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                 WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+      <Reference
+          Name = "Microsoft.VisualBasic"
+          AssemblyName = "Microsoft.VisualBasic"
+      />
+      <Reference
+          Name = "mscorlib"
+          AssemblyName = "mscorlib"
+      />
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "Microsoft.VisualBasic.Compatibility"
+                    AssemblyName = "Microsoft.VisualBasic.Compatibility"
+                />
+                <Reference
+                    Name = "Microsoft.StdFormat"
+                    Guid = "{6B263850-900B-11D0-9484-00A0C91110ED}"
+                    VersionMajor = "1"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "primary"
+                />
+                <Reference
+                    Name = "SAPbobsCOM"
+                    Guid = "{FC8030BE-F5D2-4B8E-8F92-44228FE32007}"
+                    VersionMajor = "2007"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BPList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "BPList.resX"
+                    DependentUpon = "BPList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ChooseCompany.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ChooseCompany.resx"
+                    DependentUpon = "ChooseCompany.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ContactEmploees.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ContactEmploees.resX"
+                    DependentUpon = "ContactEmploees.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Conversions.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Conversions.resX"
+                    DependentUpon = "Conversions.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Currencies.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Currencies.resX"
+                    DependentUpon = "Currencies.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "DueDate.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "DueDate.resX"
+                    DependentUpon = "DueDate.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Formating.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Formating.resX"
+                    DependentUpon = "Formating.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "globals.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "IndexRate.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "IndexRate.resX"
+                    DependentUpon = "IndexRate.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ItemList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ItemList.resX"
+                    DependentUpon = "ItemList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ItemPrice.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ItemPrice.resX"
+                    DependentUpon = "ItemPrice.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "KeyByValue.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "KeyByValue.resX"
+                    DependentUpon = "KeyByValue.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UserList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserList.resX"
+                    DependentUpon = "UserList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "UsingSBObob.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UsingSBObob.resX"
+                    DependentUpon = "UsingSBObob.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "WarehouseList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "WarehouseList.resX"
+                    DependentUpon = "WarehouseList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+
+

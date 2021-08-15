@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="tablasSistemas" targetNamespace="http://tempuri.org/tablasSistemas.xsd" xmlns:mstns="http://tempuri.org/tablasSistemas.xsd" xmlns="http://tempuri.org/tablasSistemas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ControlProyectosConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ControlProyectosConnectionString (MySettings)" PropertyReference="ApplicationSettings.ControlProyectos.My.MySettings.GlobalReference.Default.ControlProyectosConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tab_SistemasTableAdapter" GeneratorDataComponentClassName="tab_SistemasTableAdapter" Name="tab_Sistemas" UserDataComponentName="tab_SistemasTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ControlProyectosConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT "id_tabla", "desc_Tabla", "tablareal" FROM "dbo"."tab_Sistemas"</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_tabla" DataSetColumn="id_tabla" />
+              <Mapping SourceColumn="desc_Tabla" DataSetColumn="desc_Tabla" />
+              <Mapping SourceColumn="tablareal" DataSetColumn="tablareal" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="tablasSistemas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="tablasSistemas" msprop:Generator_UserDSName="tablasSistemas" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tab_Sistemas" msprop:Generator_UserTableName="tab_Sistemas" msprop:Generator_RowDeletedName="tab_SistemasRowDeleted" msprop:Generator_TableClassName="tab_SistemasDataTable" msprop:Generator_RowChangedName="tab_SistemasRowChanged" msprop:Generator_RowClassName="tab_SistemasRow" msprop:Generator_RowChangingName="tab_SistemasRowChanging" msprop:Generator_RowEvArgName="tab_SistemasRowChangeEvent" msprop:Generator_RowEvHandlerName="tab_SistemasRowChangeEventHandler" msprop:Generator_TablePropName="tab_Sistemas" msprop:Generator_TableVarName="tabletab_Sistemas" msprop:Generator_RowDeletingName="tab_SistemasRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_tabla" msprop:Generator_UserColumnName="id_tabla" msprop:Generator_ColumnPropNameInRow="id_tabla" msprop:Generator_ColumnVarNameInTable="columnid_tabla" msprop:Generator_ColumnPropNameInTable="id_tablaColumn" type="xs:double" />
+              <xs:element name="desc_Tabla" msprop:Generator_UserColumnName="desc_Tabla" msprop:Generator_ColumnPropNameInRow="desc_Tabla" msprop:Generator_ColumnVarNameInTable="columndesc_Tabla" msprop:Generator_ColumnPropNameInTable="desc_TablaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1073741823" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tablareal" msprop:Generator_UserColumnName="tablareal" msprop:Generator_ColumnPropNameInRow="tablareal" msprop:Generator_ColumnVarNameInTable="columntablareal" msprop:Generator_ColumnPropNameInTable="tablarealColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1073741823" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tab_Sistemas" />
+      <xs:field xpath="mstns:id_tabla" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,278 @@
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\app.config
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Vista.exe.config
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Vista.exe
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Vista.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CommonServiceLocator.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\De.TorstenMandelkow.MetroChart.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Entidades.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\HashCode.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\MaterialDesignColors.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Microsoft.SqlServer.Smo.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Negocio.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\SKGL.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Security.AccessControl.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Security.Permissions.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Windows.Interactivity.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\WPFToolkit.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\WPFtoolkitFramework.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\ConexionSQLServer.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\AxShockwaveFlashObjects.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\stdole.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\HashCode.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Negocio.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Entidades.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Entidades.dll.config
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\MaterialDesignColors.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Security.AccessControl.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Security.Permissions.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\WPFToolkit.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\ConexionSQLServer.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\ConexionSQLServer.dll.config
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.csprojAssemblyReference.cache
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\AnularComprobanteIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\DeterminacionCuentasMayor.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\DiferenciaConversion.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\GenerarRetencionesIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\PortalRetencionesISLR.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\PortalRetencionesIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\GestionarReconciliacionesInternas.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Licencia\Licencia.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\TablaDiferenciaConversion.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\TablaDiferenciaTipoCambio.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\TablaReconciliacionesInternasAnteriores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Utilidades\Formulario\CierrePeriodo.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\Generar_XML_ISLR.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\GenerarTXT.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteISLRMensual.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteISLROperacion.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\Libro Ventas Semanal.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\LibroComprasSemanal.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ListadoComprobantesIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteARCV.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteISLRMensual.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteRetencionIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteISLROperacion.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroCompras.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroComprasSemanal.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroVentas.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroVentasSemanal.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportListadoComprobantesIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inventario\Articulos.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\Asiento.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Formularios\Balance.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\ClasesImpuestos.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\CodigosFiscales.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteARCV.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\DetallesSociedad.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\DiferenciaTipoCambio.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\Empresa.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\EntradaMercancia.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaPeriodoISLR.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaDateTXT.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Menu\LogMensajes.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\TXTFile.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Utilidades\Tablas\TablaCierrePeriodo.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\EntregaMercancia.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\FacturaDeudores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\FacturaProveedores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inventario\InformeAuditoriaStock.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\LibroCompras.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Formularios\LibroDiario.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Formularios\LibroMayor.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\LibroVentas.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaArticulos.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaCodigosFiscales.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaCuentas.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaFacturaProveedores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaJournalEntry.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaPagos.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaRetencionImpuesto.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaSociosNegocios.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaUsuarios.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListBoxCodigosFiscales.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\Login.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\MainWindow.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion Bancos\MediosPago.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Menu\Menu.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Monedas.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\NotaCreditoDeudores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\NotaCreditoProveedores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\NotaDebitoDeudores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\NotaDebitoProveedores.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\NroComprobante.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion Bancos\PagoEfectuado.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion Bancos\PagoRecibido.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Periodo Contable.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\PeriodosContables.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\PlanCuentas.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\ReconciliacionInterna.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\ReconciliacionSN.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Registro.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\RetencionImpuesto.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Selecionar_Sociedad.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\SociosNegocio.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inventario\TablaAuditoriaStock.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaBalance.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaLibroDiario.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaLibroMayor.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaRetencionImpuesto.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\TipoCambio.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\TratarPlanCuentas.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Menu\UserControlMenuItem.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Usuarios.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\UsuarioSitio.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\XMLFile.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\App.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista_Content.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista_MarkupCompile.cache
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista_MarkupCompile.lref
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\App.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\AnularComprobanteIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\DeterminacionCuentasMayor.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\DiferenciaConversion.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\GenerarRetencionesIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\PortalRetencionesISLR.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\PortalRetencionesIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\GestionarReconciliacionesInternas.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Licencia\Licencia.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\TablaDiferenciaConversion.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\TablaDiferenciaTipoCambio.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\TablaReconciliacionesInternasAnteriores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Utilidades\Formulario\CierrePeriodo.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\Generar_XML_ISLR.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\GenerarTXT.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteISLRMensual.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteISLROperacion.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\Libro Ventas Semanal.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\LibroComprasSemanal.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ListadoComprobantesIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteARCV.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteISLRMensual.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteRetencionIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportComprobanteISLROperacion.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroCompras.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroComprasSemanal.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroVentas.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportLibroVentasSemanal.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportListadoComprobantesIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inventario\Articulos.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\Asiento.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Formularios\Balance.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\ClasesImpuestos.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\CodigosFiscales.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteARCV.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\ComprobanteIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\DetallesSociedad.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\DiferenciaTipoCambio.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\Empresa.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\EntradaMercancia.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaPeriodoISLR.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaDateTXT.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Menu\LogMensajes.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\TXTFile.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Utilidades\Tablas\TablaCierrePeriodo.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\EntregaMercancia.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\FacturaDeudores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\FacturaProveedores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inventario\InformeAuditoriaStock.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\LibroCompras.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Formularios\LibroDiario.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Formularios\LibroMayor.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\LibroVentas.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaArticulos.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaCodigosFiscales.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaCuentas.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaFacturaProveedores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaJournalEntry.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaPagos.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaRetencionImpuesto.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaSociosNegocios.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaUsuarios.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListBoxCodigosFiscales.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\Login.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\MainWindow.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion Bancos\MediosPago.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Menu\Menu.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Monedas.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\NotaCreditoDeudores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\NotaCreditoProveedores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Ventas\NotaDebitoDeudores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Compras\NotaDebitoProveedores.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\NroComprobante.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion Bancos\PagoEfectuado.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion Bancos\PagoRecibido.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Periodo Contable.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\PeriodosContables.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\PlanCuentas.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\ReconciliacionInterna.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\ReconciliacionSN.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Registro.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\RetencionImpuesto.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Selecionar_Sociedad.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Socios Negocio\SociosNegocio.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inventario\TablaAuditoriaStock.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaBalance.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaLibroDiario.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaLibroMayor.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Financieros\Tablas\TablaRetencionImpuesto.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\TipoCambio.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Finanzas\TratarPlanCuentas.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Menu\UserControlMenuItem.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Gestion\Usuarios.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Inicio\UsuarioSitio.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\XMLFile.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.g.resources
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.Properties.Resources.resources
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.csproj.GenerateResource.cache
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.csproj.CoreCompileInputs.cache
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.csproj.CopyComplete
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.exe
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Vista.pdb
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportAnularComprobantesIVA.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaClasesImpuestos.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\VerComprobantesRetenciosIVAAnulados.g.cs
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Reportes WPF\CrystalReportAnularComprobantesIVA.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Listas\ListaClasesImpuestos.baml
+C:\Users\jamara\source\repos\LoginSystem\PresentacionWPF\obj\Release\Informes Fiscales\Formularios\VerComprobantesRetenciosIVAAnulados.baml

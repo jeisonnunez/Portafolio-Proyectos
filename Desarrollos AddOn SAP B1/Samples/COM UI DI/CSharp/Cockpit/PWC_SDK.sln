@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWC_SDK", "PWC_SDK\PWC_SDK.csproj", "{4E15A45F-D193-452A-BE6E-7EC9E8022119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cockpit", "CockpitsService\Cockpit.csproj", "{06A03EA9-779E-421F-BB00-C59FC84E2F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E15A45F-D193-452A-BE6E-7EC9E8022119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E15A45F-D193-452A-BE6E-7EC9E8022119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E15A45F-D193-452A-BE6E-7EC9E8022119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E15A45F-D193-452A-BE6E-7EC9E8022119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A03EA9-779E-421F-BB00-C59FC84E2F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A03EA9-779E-421F-BB00-C59FC84E2F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A03EA9-779E-421F-BB00-C59FC84E2F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A03EA9-779E-421F-BB00-C59FC84E2F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

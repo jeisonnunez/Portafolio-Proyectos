@@ -1,0 +1,405 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+	
+	}
+	
+@font-face {
+  font-family: "Dusha V5";
+  src:url(Dusha_-_FIFA_World_Cup_2018.ttf);
+}
+
+body{ 
+
+	width:100%;
+	overflow-x:hidden;
+	
+	
+	
+	
+}
+
+#logo1{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	float:right;
+	
+	
+}
+
+.button {
+	font-family:"Dusha V5";
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+  padding: 6px 25px 0px 20px;
+  margin: 15px 20px 20px 20px;
+  display: inline-block;
+  float: right;
+  text-align:center;
+  text-decoration: none;
+  width: 100px; height: 27px; 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color: #8B0000	; 
+  -webkit-box-shadow: 0 3px rgba(153,0,0,.75); 
+  -moz-box-shadow: 0 3px rgba(153,0,0,.75); 
+  box-shadow: 0 3px rgba(153,0,0,.75);
+  transition: all 0.1s linear 0s; 
+  top: 0px;
+  position: relative;
+}
+
+.button:hover {
+  top: 3px;
+  background-color:#8B0000;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+  
+}
+
+	
+#principal{
+	
+	
+	background-image:url(../../imagenes/football-stadium-227561_1920.jpg);
+	width:100%;
+	height:800px;
+	background-size:cover;
+	position:relative;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;	
+	background-repeat:no-repeat;
+	background-position:center center;	
+	background-attachment:fixed;	
+	
+	
+	
+	
+	
+	}
+	
+#principal:before{
+	
+	content:"";
+	width:100%;
+	height:100%;
+	position:absolute;
+	background-color:#4169E1;
+	opacity:0.5;
+	
+	}
+	
+	#principal #contenedor{
+		
+	z-index:1;
+
+	}
+	
+	
+	
+	#menu{
+	
+	margin:0;
+	padding:0;	
+	display:block;	
+	background:#191970;
+	width:100%;
+	height:15px;
+	
+	
+}
+
+
+	
+	
+	#mundial{
+		
+		width:80%;
+		margin:auto;
+		
+		
+		}
+	
+#imagen_principal{
+	
+	width:100%;
+	height:400px;
+	text-align:center;
+	margin:auto;
+	
+	
+	
+	
+	}
+
+	
+	#titulo_inicio{
+		
+		color:#000;
+		font-size:40px;
+		text-align:center;
+		font-family:"Dusha V5";	
+		margin:auto;
+		padding:0px 100px;
+		
+		}
+	
+	
+	#parrafo{
+		font-size:24px;
+		text-align:center;
+		font-family:"Dusha V5";	
+		margin:auto;
+		color:#FFFFFF;
+		padding:30px 100px 50px 100px;
+		
+		}
+	
+	
+
+#encabezado{
+	top:0;
+	left:0;
+	z-index:99;
+	position:fixed;
+	width:100%;  	
+ 
+	}
+	
+#banner{
+	background-image:url(../../imagenes/red-swirl-banner.jpg);
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:100%;
+	
+	}	
+	
+	
+#logo{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	
+	
+}
+		
+#titulo{
+	
+	display:inline;
+	text-align:center;
+	color:#fff;
+font-family:"Dusha V5";
+	width:100%;
+	margin-left:12%;
+	font-size:2.2em;
+	
+	}
+
+table{
+	
+	margin:auto;}	
+	
+	
+
+
+@media handheld, only screen and (max-width: 500px) {
+#parrafo{
+display:none;
+}
+}
+
+@media (max-width:1416px) {
+		
+	#principal:before{
+	
+			content:"";
+			width:100%;
+				
+			position:absolute;
+			background-color:#4169E1;
+	opacity:0.6;
+			
+	}
+		
+	}
+	
+	@media (max-width:965px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:26px;
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:1.2em;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:690px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:22px;
+	
+	
+	}
+	
+	
+
+	
+	}
+	
+	
+	@media (max-width:560px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:20px;
+	
+	}
+	
+	.button{
+		
+		width: 100px;
+		font-size:14px;
+		margin:5px;
+		
+		
+		
+		}
+	
+	
+	#titulo_inicio{
+		
+		font-size:30px;
+		
+		
+		
+		}
+	
+	
+	#parrafo{
+		
+		font-size:18px;
+		
+		
+		}
+
+	}
+	
+	@media (max-width:490px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:16px;
+	
+	}
+	
+	#logo{
+	
+	width:15%;
+	
+	
+}
+
+
+	
+	}
+
+@media (max-width:453px) {
+		
+	#principal{
+	
+	margin-top:100px;
+	
+	
+	
+	}
+}
+	@media (max-width:400px) {
+		
+	#titulo{
+	
+	margin-left:2%;
+	font-size:14px;
+	
+	}	
+	
+	.parrafo{display:none;}
+	
+	
+
+	
+	}
+	
+	@media (max-width:365px) {
+		
+	#titulo{
+	
+	
+	font-size:12px;
+	margin-left:0px;
+	
+	}	
+	
+	#logo{
+	
+	width:12%;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:715px) {
+		
+	#principal:before{
+	
+			content:"";
+			width:100%;
+						
+			position:absolute;
+			background-color:#4169E1;
+	opacity:0.6;
+			
+	}	
+	
+	
+	
+	}
+	@media (max-width:400px) {
+		
+	#principal:before{
+	
+			content:"";
+			width:100%;
+						
+			position:absolute;
+			background-color:#4169E1;
+	opacity:0.6;
+			
+	}
+	
+		
+	}

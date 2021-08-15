@@ -1,0 +1,7 @@
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\01.HelloWorld\bin\Debug\Project1.exe
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\01.HelloWorld\bin\Debug\Project1.pdb
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\01.HelloWorld\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\01.HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\01.HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\01.HelloWorld\obj\Debug\Project1.exe
+C:\Users\jamara\Documents\SAP Business One SDK\Samples\COM UI\CSharp\01.HelloWorld\obj\Debug\Project1.pdb

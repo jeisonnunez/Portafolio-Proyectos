@@ -1,0 +1,14 @@
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\HashCode.dll
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\HashCode.pdb
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Security.AccessControl.dll
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Security.Permissions.dll
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Security.AccessControl.xml
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Security.Permissions.xml
+C:\Users\jamara\source\repos\LoginSystem\HashCode\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\jamara\source\repos\LoginSystem\HashCode\obj\Release\HashCode.csproj.CoreCompileInputs.cache
+C:\Users\jamara\source\repos\LoginSystem\HashCode\obj\Release\HashCode.csproj.CopyComplete
+C:\Users\jamara\source\repos\LoginSystem\HashCode\obj\Release\HashCode.dll
+C:\Users\jamara\source\repos\LoginSystem\HashCode\obj\Release\HashCode.pdb

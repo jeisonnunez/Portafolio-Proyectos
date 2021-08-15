@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "UsingSBObob.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "UsingSBObob"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "UsingSBObob.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\UsingSBObob.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Globals.bas"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\globals.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\UsingSBObob.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\UsingSBObob.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\DueDate.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\DueDate.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\BPList.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\BPList.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Currencies.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\Currencies.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\ContactEmploees.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\ContactEmploees.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\UserList.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\UserList.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\ItemList.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\ItemList.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\WarehouseList.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\WarehouseList.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\KeyByValue.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\KeyByValue.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\ItemPrice.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\ItemPrice.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "Command1_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Couldn't resolve default property of object oRecordSet.Fields().Value.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Conversions.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\Conversions.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\IndexRate.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\IndexRate.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Formating.frm"
+        NewPath = "D:\Samples\COM DI\VB.NET\3.UsingSBObob\Temp\Formating.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+</UpgradeLog>
+

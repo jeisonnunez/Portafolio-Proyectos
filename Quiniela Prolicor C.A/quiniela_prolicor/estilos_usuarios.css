@@ -1,0 +1,634 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0;
+	margin:0;
+	
+	}
+	@font-face {
+  font-family: "Dusha V5";
+  src:url(Dusha_-_FIFA_World_Cup_2018.ttf);
+}
+
+body{ 
+
+	width:100%;
+	overflow-x:hidden;
+	
+	
+	
+	
+}
+
+#logo1{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	float:right;
+	
+	
+}	
+#principal{
+	
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-aroud;
+	margin:auto;	
+	width:100%;	
+	background-image:url(imagenes/estrellas1.jpeg);		
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;	
+	background-size:cover;	
+	position:relative;
+	margin-top:90px;
+	
+	
+	}
+	
+#principal:before{
+	
+	content:"";
+	width:100%;
+	height:720px;
+	position:absolute;
+	background-color:#4169E1;
+	opacity:0.5;
+	
+	}
+
+
+	
+	
+#encabezado{
+	top:0;
+	left:0;
+	z-index:99;
+	position:fixed;
+	width:100%;  	
+ 
+	}
+	
+#banner{
+	
+	
+	background-image:url(imagenes/red-swirl-banner.jpg);
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:100%;
+	
+	}	
+	
+	
+#logo{
+	
+	width:15%;
+	height:80px;
+	vertical-align:middle;	
+	padding:2px 5px 2px 5px;
+	border-radius:15px;
+	
+	
+}
+		
+		
+		
+		
+#titulo{
+	
+	display:inline;
+	text-align:center;
+	color:#fff;
+	font-family:"Dusha V5";
+	width:100%;
+	margin-left:12%;
+	font-size:2.2em;
+	
+	
+	
+	
+	}
+	
+
+#menu ul{
+	
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:flex;	
+	background:#191970;
+	width:100%;
+	
+	
+}
+
+#menu ul li{
+	
+	width:20%;
+	
+	
+	}
+
+
+#menu li a{
+	
+	display:block;
+	padding:8px 0px;	
+	color:#FFFFFF;
+	text-decoration:none;
+	text-align:center;
+	font-size:1.4em;
+	font-family:"Dusha V5";
+	
+}
+
+
+
+.subtitulo{
+	font-size:12px;
+}
+
+
+.centrado{
+	
+	border:none;
+	
+}
+
+.centrado a{
+	
+	
+	text-align:center;
+	color:#fff;
+	font-size:20px;
+	
+	
+	}
+
+#contenido{
+	
+	padding-top:50px;
+	
+	
+	
+	}
+
+#principal{
+	
+		
+	background-image:url(imagenes/stadium-1082235_1280.jpg);	
+}
+
+
+
+.bot{
+	padding:0 5px;
+	display:inline;
+	border:0;
+	background-color:transparent;
+	
+}
+
+
+
+	
+#menu li a:hover {
+ background-color: #2586d7;
+
+ }
+ 
+#principal #contenido{
+
+z-index:1;
+margin-top:100px;
+margin-bottom:100px;
+
+width:100%;	
+	
+	
+}
+
+#contenido table{
+	
+	margin:auto;
+	width:50%;
+	font-family:"Dusha V5";
+	
+}
+ 
+.primera_fila{
+	
+	background:#1A1B41;
+	color:#fff;
+	height:40px;
+	
+	
+	
+	}
+	
+	.resultado{
+		
+		background:#FDFFFC;
+		color:#000;
+		
+		}
+		
+		#puntaje{
+			background:#708090;
+			color:#FFFFFF;
+			
+			
+			
+			}
+
+ .button2{
+  font-size: 14px;
+ 
+  color: #000;
+  padding: 6px 25px 0px 20px;
+  font-family:"Dusha V5";
+  display: inline-block;
+  margin: 5px;
+  text-decoration: none;
+  width: 100px;
+  cursor:pointer;
+ 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color:  #FDFFFC; 
+  -webkit-box-shadow: 0 3px #FDFFFC; 
+  -moz-box-shadow: 0 3px  #FDFFFC; 
+  box-shadow: 0 3px  #FDFFFC;
+  transition: all 0.1s linear 0s; 
+  top: 0px;
+  position: relative;
+}
+
+ .button2:hover {
+  top: 3px;
+  background-color: #FDFFFC;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+  
+}
+
+.button{
+  font-size: 14px;
+ 
+  color: #000;
+  padding: 6px 25px 0px 20px;
+  font-family:"Dusha V5";
+  display: inline-block;
+  margin: 5px;
+  text-decoration: none;
+  width: 100px;
+  cursor:pointer;
+ 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color:  #F0FFCE; 
+  -webkit-box-shadow: 0 3px #F0FFCE; 
+  -moz-box-shadow: 0 3px  #F0FFCE; 
+  box-shadow: 0 3px  #F0FFCE;
+  transition: all 0.1s linear 0s; 
+  top: 0px;
+  position: relative;
+}
+
+ .button:hover {
+  top: 3px;
+  background-color: #F0FFCE;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+  
+}
+
+
+
+.button1{
+  font-size: 14px;
+ 
+  color: white;
+  padding: 6px 25px 0px 20px;
+  
+  cursor:pointer;
+  display: inline-block;
+  margin: 5px;
+  text-decoration: none;
+  width: 100px; 
+ font-family:"Dusha V5";
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color: #720E07; 
+  -webkit-box-shadow: 0 3px #720E07; 
+  -moz-box-shadow: 0 3px #720E07;  
+  box-shadow: 0 3px #720E07; 
+  transition: all 0.1s linear 0s; 
+  top: 0px;
+  position: relative;
+}
+
+.button1:hover {
+  top: 3px;
+  background-color:#720E07;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;
+  
+}
+
+
+	
+.usuario{
+	
+	text-align:left;
+	font-size:22px;
+	font-family:"Dusha V5";
+	color:#fff;
+	padding:10px;
+	margin-top:40px;
+	position:fixed;
+	z-index:99;
+	
+	
+	
+	}	
+	
+
+
+table{
+	
+	border-collapse:collapse; 
+
+	width:100%;
+	cellpadding:11px;
+	
+	}
+	
+ td{
+	
+	
+	
+	text-align:center;
+	height:25px;
+	font-size:16px;
+	font-family:"Dusha V5";
+	
+	
+	}
+	
+	
+	
+	
+
+.informacion{
+	
+	color:#000;
+	font-size:0.6em;
+	font-family:"Dusha V5";
+	text-align:center;
+	
+	}
+	
+	
+	
+	@media (max-width:965px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:26px;
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:1.2em;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:690px) {
+	#titulo{
+	
+	margin-left:5%;
+	font-size:22px;
+	
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:1.0em;
+	
+	
+}
+
+#principal{
+	
+	margin-top:110px;
+	
+	
+	
+	}
+
+	
+	}
+	
+	
+	@media (max-width:560px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:20px;
+	
+	}
+	
+	#menu li a{
+	
+	
+	font-size:0.9em;
+	
+	
+}
+
+p{
+	
+	font-size:12px;
+	
+	}
+	
+	.button1, .button, .button2{
+		
+		width:50px;
+		font-size:10px;
+		padding:2px;
+		
+		
+		
+		}
+	
+	
+	
+	}
+	
+	@media (max-width:490px) {
+	#titulo{
+	
+	margin-left:2%;
+	font-size:16px;
+	
+	}
+	
+	#logo{
+	
+	width:15%;
+	
+	
+}
+
+#principal{
+	
+	margin-top:110px;
+	
+	
+	
+	}
+	
+	
+	}
+
+@media (max-width:453px) {
+		
+	#principal{
+	
+	margin-top:130px;
+	
+	
+	
+	}
+	
+	
+	
+}
+	@media (max-width:380px) {
+		
+	#titulo{
+	
+	margin-left:2%;
+	font-size:14px;
+	
+	}	
+	
+	#menu li a{
+	
+	
+	padding:0px 1px;
+	
+	
+}
+
+#principal{
+	
+	margin-top:115px;
+	
+	
+	
+	}
+	
+	p{
+	
+	font-size:10px;
+	padding:0;
+	
+	}
+	
+	.button1, .button, .button2{
+		
+		width:40px;
+		font-size:8px;
+		padding:2px;
+		
+		
+		
+		}
+	
+	
+	
+	}
+	
+	@media (max-width:365px) {
+		
+	#titulo{
+	
+	
+	font-size:12px;
+	margin-left:0px;
+	
+	}	
+	
+	#logo{
+	
+	width:12%;
+	
+	
+}
+	
+	}
+	
+	@media (max-width:880px) {
+		
+	#principal:before{
+	
+			content:"";
+			width:100%;
+			height:1050px;			
+			position:absolute;
+			background-color:#4169E1;
+			opacity:0.5;
+			
+	}	
+	
+	
+	
+	}
+	@media (max-width:400px) {
+		
+	
+	
+
+	
+	
+	.informacion{
+	
+	font-size:8px;
+	
+	}
+	
+	.imagen{
+	
+	width:25px;
+	
+	
+	}
+	
+	.cuadro{
+	
+	width:15px;	
+	height:15px;
+	
+	}
+	
+	}

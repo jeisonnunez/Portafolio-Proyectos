@@ -1,0 +1,7 @@
+C:\Users\jamara\source\repos\LoginSystem\SubPeriodo\bin\Debug\Entidades.dll.config
+C:\Users\jamara\source\repos\LoginSystem\SubPeriodo\bin\Debug\Entidades.dll
+C:\Users\jamara\source\repos\LoginSystem\SubPeriodo\bin\Debug\Entidades.pdb
+C:\Users\jamara\source\repos\LoginSystem\SubPeriodo\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\jamara\source\repos\LoginSystem\SubPeriodo\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jamara\source\repos\LoginSystem\SubPeriodo\obj\Debug\Entidades.dll
+C:\Users\jamara\source\repos\LoginSystem\SubPeriodo\obj\Debug\Entidades.pdb
